@@ -1,5 +1,5 @@
 # TIE-02100 Johdatus ohjelmointiin
-# Teemu Helenius, teemu.helenius@tuni.fi, opiskelijanumero: 275152
+# Teemu Helenius, teemu.helenius@tuni.fi
 # Pokeripeli: Perus texas hold'em no limit panostuksella. Muut pelaajat AI.
 # säännöt: https://fi.wikipedia.org/wiki/Texas_hold_em
 
